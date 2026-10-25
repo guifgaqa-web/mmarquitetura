@@ -1,0 +1,14 @@
+{
+  "slug": "escritorio-asa-sul",
+  "titulo": "Escritório Corporativo Asa Sul",
+  "categoria": "Comercial",
+  "descricao": "TODO: Descrição do projeto comercial na Asa Sul. Inserir texto real do escritório.",
+  "area": "320m²",
+  "local": "Asa Sul, Brasília – DF",
+  "ano": "2024",
+  "imagemCapa": "/images/projetos/placeholder-3.jpg",
+  "galeria": [
+    "/images/projetos/placeholder-3.jpg",
+    "/images/projetos/placeholder-6.jpg"
+  ]
+}

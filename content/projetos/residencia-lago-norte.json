@@ -1,0 +1,19 @@
+{
+  "slug": "residencia-lago-norte",
+  "titulo": "Residência Lago Norte",
+  "categoria": "Residencial",
+  "descricao": "TODO: Descrição do projeto residencial no Lago Norte. Inserir texto real do escritório.",
+  "area": "420m²",
+  "local": "Lago Norte, Brasília – DF",
+  "ano": "2024",
+  "imagemCapa": "/images/projetos/placeholder-1.jpg",
+  "galeria": [
+    "/images/projetos/placeholder-1.jpg",
+    "/images/projetos/placeholder-2.jpg",
+    "/images/projetos/placeholder-3.jpg"
+  ],
+  "antesDepois": {
+    "antes": "/images/projetos/placeholder-antes.jpg",
+    "depois": "/images/projetos/placeholder-depois.jpg"
+  }
+}

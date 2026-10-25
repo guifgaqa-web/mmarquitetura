@@ -1,0 +1,15 @@
+{
+  "slug": "apartamento-noroeste",
+  "titulo": "Apartamento Noroeste",
+  "categoria": "Interiores",
+  "descricao": "TODO: Descrição do projeto de interiores no Noroeste. Inserir texto real do escritório.",
+  "area": "180m²",
+  "local": "Noroeste, Brasília – DF",
+  "ano": "2023",
+  "imagemCapa": "/images/projetos/placeholder-2.jpg",
+  "galeria": [
+    "/images/projetos/placeholder-2.jpg",
+    "/images/projetos/placeholder-4.jpg",
+    "/images/projetos/placeholder-5.jpg"
+  ]
+}

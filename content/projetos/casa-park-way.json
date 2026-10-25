@@ -1,0 +1,20 @@
+{
+  "slug": "casa-park-way",
+  "titulo": "Casa Park Way",
+  "categoria": "Alto padrão",
+  "descricao": "TODO: Descrição do projeto alto padrão no Park Way. Inserir texto real do escritório.",
+  "area": "680m²",
+  "local": "Park Way, Brasília – DF",
+  "ano": "2023",
+  "imagemCapa": "/images/projetos/placeholder-4.jpg",
+  "galeria": [
+    "/images/projetos/placeholder-4.jpg",
+    "/images/projetos/placeholder-1.jpg",
+    "/images/projetos/placeholder-5.jpg",
+    "/images/projetos/placeholder-6.jpg"
+  ],
+  "antesDepois": {
+    "antes": "/images/projetos/placeholder-antes.jpg",
+    "depois": "/images/projetos/placeholder-depois.jpg"
+  }
+}
