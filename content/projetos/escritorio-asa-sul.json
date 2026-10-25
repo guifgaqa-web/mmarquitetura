@@ -6,9 +6,9 @@
   "area": "320m²",
   "local": "Asa Sul, Brasília – DF",
   "ano": "2024",
-  "imagemCapa": "/images/projetos/placeholder-3.jpg",
+  "imagemCapa": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=600&fit=crop",
   "galeria": [
-    "/images/projetos/placeholder-3.jpg",
-    "/images/projetos/placeholder-6.jpg"
+    "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&h=800&fit=crop",
+    "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=1200&h=800&fit=crop"
   ]
 }

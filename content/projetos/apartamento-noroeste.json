@@ -6,10 +6,10 @@
   "area": "180m²",
   "local": "Noroeste, Brasília – DF",
   "ano": "2023",
-  "imagemCapa": "/images/projetos/placeholder-2.jpg",
+  "imagemCapa": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=800&h=600&fit=crop",
   "galeria": [
-    "/images/projetos/placeholder-2.jpg",
-    "/images/projetos/placeholder-4.jpg",
-    "/images/projetos/placeholder-5.jpg"
+    "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=1200&h=800&fit=crop",
+    "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=1200&h=800&fit=crop",
+    "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&h=800&fit=crop"
   ]
 }

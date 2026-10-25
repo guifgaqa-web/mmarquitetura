@@ -22,7 +22,7 @@ export function Sobre() {
           <SectionReveal delay={0.2}>
             <div className="relative aspect-[4/5] overflow-hidden border border-white/10">
               <Image
-                src="/images/equipe/arquiteto-1.jpg"
+                src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=800&h=1000&fit=crop"
                 alt="TODO: Foto dos arquitetos do escritório MM Arquitetura"
                 fill
                 className="object-cover"
