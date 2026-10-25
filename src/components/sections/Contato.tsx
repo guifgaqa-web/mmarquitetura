@@ -16,16 +16,17 @@ export function Contato() {
 
   const handleSubmit = (e: FormEvent) => {
     e.preventDefault()
-    const msg = [
-      `Olá! Meu nome é ${form.nome}.`,
-      form.tipo && `Tipo de projeto: ${form.tipo}.`,
-      form.metragem && `Metragem estimada: ${form.metragem}.`,
-      form.bairro && `Localização: ${form.bairro}.`,
-      form.prazo && `Prazo desejado: ${form.prazo}.`,
+    const linhas = [
+      `Olá! Meu nome é *${form.nome}*.`,
+      "",
+      form.tipo && `📐 *Tipo de projeto:* ${form.tipo}`,
+      form.metragem && `📏 *Metragem:* ${form.metragem}`,
+      form.bairro && `📍 *Localização:* ${form.bairro}`,
+      form.prazo && `📅 *Prazo:* ${form.prazo}`,
+      "",
       "Gostaria de agendar uma conversa.",
     ]
-      .filter(Boolean)
-      .join(" ")
+    const msg = linhas.filter((l) => l !== false).join("\n")
     window.open(
       `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(msg)}`,
       "_blank"
